@@ -58,7 +58,7 @@ skinparam note {
 
 skinparam state {
 	ArrowColor Black
-	BackgroundColor White
+	BackgroundColor Gray
 	BorderColor Black
 }
 
